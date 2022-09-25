@@ -3,7 +3,7 @@
   "elements" : [ {
     "tag" : "Element",
     "shape" : "RoundedBox",
-    "width": 3,
+    "width": "3",
     "stroke" "#888888",
   }, {
     "tag" : "Software System",
